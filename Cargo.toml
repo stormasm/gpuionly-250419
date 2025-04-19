@@ -4,7 +4,6 @@ members = [
     "crates/collections",
     "crates/gpui",
     "crates/gpui_macros",
-    #    "crates/gpui_tokio",
     "crates/http_client",
     "crates/http_client_tls",
     "crates/media",
@@ -13,7 +12,6 @@ members = [
     "crates/semantic_version",
     "crates/sum_tree",
     "crates/util",
-    #    "crates/util_macros",
 ]
 default-members = ["crates/gpui"]
 
